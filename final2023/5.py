@@ -1,4 +1,4 @@
-for n in range(1, 10**8):
+for n in range(1, 10**6):
     N = n
     mas = [2, 3, 1]
     cnt = 0
